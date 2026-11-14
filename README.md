@@ -40,7 +40,7 @@ ICC-Practica02-LOjeda/
 Modela una fecha mediante los atributos encapsulados (`private`) `dia`, `mes`, `anio` y `mestex`, e incluye:
 
 * **Constructores sobrecargados:**
-  * `Fecha()`: Constructor por omisión que inicializa una fecha válida por defecto (`01/enero/2000`).
+  * `Fecha()`: Constructor por omisión que inicializa una fecha válida por defecto (`08/agosto/2007`).
   * `Fecha(int d, int m, int a)`: Inicializa la fecha a partir de día, número de mes y año.
   * `Fecha(int d, String m, int a)`: Inicializa la fecha a partir de día, nombre del mes y año.
 * **Métodos inspectores (`obtener...`):** `obtenerDia()`, `obtenerMes()`, `obtenerAnio()` y `obtenerMestex()`.
