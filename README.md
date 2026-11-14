@@ -1,1 +1,1 @@
-# ICC-Pr-ctica02-LOjeda
+# ICC-Practica02-LOjeda
